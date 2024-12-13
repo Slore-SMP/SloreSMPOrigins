@@ -1,9 +1,9 @@
 {
   "powers": [
-    "slore:wither_skeleton/tall",
-    "slore:wither_skeleton/wither_hit",
-    "slore:wither_skeleton/feared_by_villagers",
-    "slore:wither_skeleton/feared_by_piglins",
+    "slore:witherling/tall",
+    "slore:witherling/wither_hit",
+    "slore:witherling/feared_by_villagers",
+    "slore:witherling/feared_by_piglins",
     "slore:general/no_bow",
     "origins:no_shield",
     "origins:fire_immunity",

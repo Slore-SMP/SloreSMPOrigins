@@ -7,7 +7,7 @@
     "modifier": {
       "id": "*:*",
       "attribute": "minecraft:generic.scale",
-      "amount": -0.5,
+      "amount": -0.25,
       "operation": "add_value"
     }
   },
@@ -17,13 +17,13 @@
       {
         "id": "*:*",
         "attribute": "minecraft:player.block_interaction_range",
-        "amount": -1.5,
+        "amount": -0.5,
         "operation": "add_value"
       },
       {
         "id": "*:*",
         "attribute": "minecraft:player.entity_interaction_range",
-        "amount": -1.5,
+        "amount": -0.5,
         "operation": "add_value"
       }
     ]

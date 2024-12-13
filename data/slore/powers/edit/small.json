@@ -1,0 +1,14 @@
+{
+  "name": "Small",
+  "description": "You are smaller than an average player, but also slower.",
+  "type": "origins:multiple",
+  "scale": {
+    "type": "origins:attribute",
+    "modifier": {
+      "id": "*:*",
+      "attribute": "minecraft:generic.scale",
+      "amount": -0.25,
+      "operation": "add_value"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "powers": [
+    "slore:axolotling/water_breathing",
+    "slore:axolotling/small",
+    "slore:axolotling/weak_on_land",
+    "slore:health/3_less_hearts",
+    "origins:water_vision",
+    "origins:aqua_affinity",
+    "origins:swim_speed",
+    "origins:like_water",
+    "origins:aquatic",
+    "origins:conduit_power_on_land",
+    "origins:air_from_potions"
+  ],
+  "icon": {
+    "id": "minecraft:axolotl_bucket"
+  },
+  "impact": 1,
+  "name": "Axolotling",
+  "description": "Axolotling origin made by macuguita"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Weak on land",
+  "description": "You are weaker than the average player on land.",
+  "type": "origins:multiple",
+  "damage": {
+    "type": "origins:attribute",
+    "modifier": {
+      "id": "*:*",
+      "attribute": "minecraft:generic.attack_damage",
+      "amount": -3,
+      "operation": "add_value"
+    },
+    "condition":{
+      "type":"origins:submerged_in",
+      "fluid":"minecraft:water",
+      "inverted": true
+    }
+  },
+  "attack": {
+    "type": "origins:attribute",
+    "modifier": {
+      "id": "*:*",
+      "attribute": "minecraft:generic.attack_speed",
+      "amount": 1,
+      "operation": "add_value"
+    },
+    "condition":{
+      "type":"origins:submerged_in",
+      "fluid":"minecraft:water"
+    }
+  }
+}

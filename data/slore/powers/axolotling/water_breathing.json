@@ -1,0 +1,11 @@
+{
+  "name": "Gills",
+  "description": "You last a considerable amount of time underwater.",
+  "type": "origins:attribute",
+    "modifier": {
+      "id": "*:*",
+      "attribute": "minecraft:generic.oxygen_bonus",
+      "amount": 7.5,
+      "operation": "add_value"
+    }
+}

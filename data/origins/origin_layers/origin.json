@@ -2,8 +2,9 @@
   "replace": false,
   "origins": [
     "slore:breezeborn",
-    "slore:wither_skeleton",
+    "slore:witherling",
     "slore:golem",
-    "slore:bee"
+    "slore:bee",
+    "slore:axolotling"
   ]
 }
