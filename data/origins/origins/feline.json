@@ -1,4 +1,5 @@
 {
+	"loading_priority": 10,
 	"powers": [
 		"origins:fall_immunity",
 		"origins:sprint_jump",
