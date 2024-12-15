@@ -1,0 +1,59 @@
+{
+  "name": "Big frame",
+  "description": "You are bigger and more resistant that an average player.",
+  "type": "origins:multiple",
+  "scale": {
+    "type": "origins:attribute",
+    "modifier": {
+      "id": "*:*",
+      "attribute": "minecraft:generic.scale",
+      "amount": 1,
+      "operation": "add_value"
+    }
+  },
+  "health": {
+    "type": "origins:attribute",
+    "modifier": {
+      "id": "*:*",
+      "attribute": "minecraft:generic.max_health",
+      "amount": 10,
+      "operation": "add_value"
+    }
+  },
+  "fast": {
+    "type": "origins:attribute",
+    "modifier": {
+      "id": "*:*",
+      "attribute": "generic.movement_speed",
+      "amount": 0.02,
+      "operation": "add_value"
+    }
+  },
+  "step_height": {
+    "type": "origins:attribute",
+    "modifier": {
+      "id": "*:*",
+      "attribute": "minecraft:generic.step_height",
+      "amount": 0.9,
+      "operation": "add_value"
+    }
+  },
+  "jump": {
+    "type": "origins:attribute",
+    "modifier": {
+      "id": "*:*",
+      "attribute": "minecraft:generic.jump_strength",
+      "amount": 0.20999999344,
+      "operation": "add_value"
+    }
+  },
+  "fall": {
+    "type": "origins:attribute",
+    "modifier": {
+      "id": "*:*",
+      "attribute": "minecraft:generic.safe_fall_distance",
+      "amount": 1.5,
+      "operation": "add_value"
+    }
+  }
+}
