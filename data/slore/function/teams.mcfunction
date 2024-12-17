@@ -10,3 +10,10 @@ team join Co-Owner Marcos3107
 team add Admin [{"color":"#FF6FA3","text":"["},{"color":"#FE78A9","text":"A"},{"color":"#FE81AE","text":"d"},{"color":"#FD8AB4","text":"m"},{"color":"#FC94B9","text":"i"},{"color":"#FB9DBF","text":"n"},{"color":"#FAAFCA","text":"]"}]
 team modify Admin prefix [{"color":"#FF6FA3","text":"["},{"color":"#FE78A9","text":"A"},{"color":"#FE81AE","text":"d"},{"color":"#FD8AB4","text":"m"},{"color":"#FC94B9","text":"i"},{"color":"#FB9DBF","text":"n"},{"color":"#FAAFCA","text":"]"}]
 team join Admin PeopleMuncher
+team join Admin Lowkey_kass
+team join Admin its3vie
+team join Admin ZANmeow
+team add Moderator [{"color":"#9286D8","text":"["},{"color":"#978CDA","text":"M"},{"color":"#9D91DD","text":"o"},{"color":"#A297DF","text":"d"},{"color":"#A79DE1","text":"e"},{"color":"#ACA3E4","text":"r"},{"color":"#B2A8E6","text":"a"},{"color":"#B7AEE9","text":"t"},{"color":"#BCB4EB","text":"o"},{"color":"#C1BAED","text":"r"},{"color":"#CCC5F2","text":"]"}]
+team modify Moderator prefix [{"color":"#9286D8","text":"["},{"color":"#978CDA","text":"M"},{"color":"#9D91DD","text":"o"},{"color":"#A297DF","text":"d"},{"color":"#A79DE1","text":"e"},{"color":"#ACA3E4","text":"r"},{"color":"#B2A8E6","text":"a"},{"color":"#B7AEE9","text":"t"},{"color":"#BCB4EB","text":"o"},{"color":"#C1BAED","text":"r"},{"color":"#CCC5F2","text":"]"}]
+team join Moderator Pigeon_bif
+team join Moderator velviaz
