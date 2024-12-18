@@ -13,3 +13,7 @@ team join Admin PeopleMuncher
 team join Admin Lowkey_kass
 team join Admin its3vie
 team join Admin ZANmeow
+team add Moderator [{"color":"#8F84D4","text":"["},{"color":"#948AD6","text":"M"},{"color":"#9A8FD9","text":"o"},{"color":"#9F95DB","text":"d"},{"color":"#A49BDD","text":"e"},{"color":"#A9A0E0","text":"r"},{"color":"#AFA6E2","text":"a"},{"color":"#B4ABE5","text":"t"},{"color":"#B9B1E7","text":"o"},{"color":"#BEB7E9","text":"r"},{"color":"#C9C2EE","text":"]"}]
+team modify Moderator prefix [{"color":"#8F84D4","text":"["},{"color":"#948AD6","text":"M"},{"color":"#9A8FD9","text":"o"},{"color":"#9F95DB","text":"d"},{"color":"#A49BDD","text":"e"},{"color":"#A9A0E0","text":"r"},{"color":"#AFA6E2","text":"a"},{"color":"#B4ABE5","text":"t"},{"color":"#B9B1E7","text":"o"},{"color":"#BEB7E9","text":"r"},{"color":"#C9C2EE","text":"] "}]
+team join Moderator Pigeon_bif
+team join Moderator velviaz
