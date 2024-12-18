@@ -17,14 +17,14 @@
       {
         "id": "*:*",
         "attribute": "minecraft:player.block_interaction_range",
-        "amount": -0.5,
-        "operation": "add_value"
+        "amount": -0.2,
+        "operation": "add_multiplied_base"
       },
       {
         "id": "*:*",
         "attribute": "minecraft:player.entity_interaction_range",
-        "amount": -0.5,
-        "operation": "add_value"
+        "amount": -0.2,
+        "operation": "add_multiplied_base"
       }
     ]
   }

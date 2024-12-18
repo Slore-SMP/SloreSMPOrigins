@@ -6,7 +6,7 @@
     "type": "origins:apply_effect",
     "effect": {
       "id": "minecraft:wither",
-      "duration": 50,
+      "duration": 100,
       "is_ambient": true,
       "show_particles": true,
       "show_icon": true

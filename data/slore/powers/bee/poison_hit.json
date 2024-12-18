@@ -11,7 +11,7 @@
     "type": "origins:apply_effect",
     "effect": {
       "id": "minecraft:poison",
-      "duration": 75,
+      "duration": 125,
       "is_ambient": true,
       "show_particles": true,
       "show_icon": true

@@ -1,0 +1,21 @@
+{
+	"powers": [
+		"origins:elytra",
+		"origins:launch_into_air",
+		"slore:dragon/big_frame",
+		"origins:hotblooded",
+		"origins:natural_armor",
+		"origins:more_exhaustion",
+		"slore:general/ride",
+		"origins:no_shield",
+		"slore:dragon/no_sleep",
+		"slore:dragon/water_weakness",
+		"slore:dragon/projectile"
+	],
+	"icon": {
+    "id": "minecraft:lava_bucket"
+  },
+	"impact": 3,
+	"name": "Dragon",
+	"description": "Dragon origin made by macuguita."
+}

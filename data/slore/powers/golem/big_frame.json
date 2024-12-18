@@ -34,8 +34,8 @@
     "modifier": {
       "id": "*:*",
       "attribute": "minecraft:generic.attack_speed",
-      "amount": -1,
-      "operation": "add_value"
+      "amount": -0.1,
+      "operation": "add_multiplied_base"
     }
   },
   "health": {

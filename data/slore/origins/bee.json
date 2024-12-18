@@ -4,6 +4,7 @@
     "slore:bee/small",
     "slore:bee/poison_hit",
     "slore:health/4_less_hearts",
+    "slore:general/jockey",
     "origins:fall_immunity"
   ],
   "icon": {
