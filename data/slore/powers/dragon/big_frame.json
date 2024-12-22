@@ -55,5 +55,22 @@
       "amount": 2.5,
       "operation": "add_value"
     }
+  },
+  "reach": {
+    "type": "origins:attribute",
+    "modifiers": [
+      {
+        "id": "*:*",
+        "attribute": "minecraft:player.block_interaction_range",
+        "amount": 0.3,
+        "operation": "add_multiplied_base"
+      },
+      {
+        "id": "*:*",
+        "attribute": "minecraft:player.entity_interaction_range",
+        "amount": 0.3,
+        "operation": "add_multiplied_base"
+      }
+    ]
   }
 }
