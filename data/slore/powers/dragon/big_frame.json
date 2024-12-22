@@ -52,7 +52,7 @@
     "modifier": {
       "id": "*:*",
       "attribute": "minecraft:generic.safe_fall_distance",
-      "amount": 1.5,
+      "amount": 2.5,
       "operation": "add_value"
     }
   }
